@@ -1,21 +1,8 @@
 # Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration
 
 ## Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration
-This repository contains the code and resources related to the study titled "Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration" This study focuses on forecasting missing acoustic well log values using four machine learning algorithms including Random Forest and XGBoost. The comparison between these algorithms aims to provide decision-makers with insights for informed decision-making and enhancing the reliability of log data.
+This repository contains the code and resources for the study titled "Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration." The study focuses on predicting neutron well log values using multiple machine learning algorithms, including Random Forest, LightGBM and ANN. The comparison of these techniques provides insights to improve the reliability of neutron log interpretation and support informed decisions in hydrocarbon exploration.
 
-## Study Approach
-Dataset Description (Taranaki Basin, New Zealand)
-Data Cleaning and Preprocessing
-Feature Selection and Correlation Analysis
-Model Training (Multiple linear regression, SGD regressor, Random Forest and XGBoost)
-Performance Evaluation Metrics (MAE, RMSE, and R2 Score)
-Results and Discussion
-
-Comparative Analysis of Multiple linear Regression, SGD regressor, Random Forest and XGBoost
-Correlation Plots and Feature Importance Analysis
-Scatter Plots
-Residual Analysis
-Conclusion
 
 ## Requirements and Dependencies
 
