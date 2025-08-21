@@ -1,10 +1,4 @@
 # Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration
-![image](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/f711d651-3bca-4431-9b61-9e24b2c34b50)
-
-
-![image](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/f55919c4-87c2-4f4c-a393-b6d3bad1b580)
-
-
 
 ## Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration
 This repository contains the code and resources related to the study titled "Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration" This study focuses on forecasting missing acoustic well log values using four machine learning algorithms including Random Forest and XGBoost. The comparison between these algorithms aims to provide decision-makers with insights for informed decision-making and enhancing the reliability of log data.
